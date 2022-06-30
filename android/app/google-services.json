@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "760797851051",
+    "project_id": "food-truck-c9344",
+    "storage_bucket": "food-truck-c9344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760797851051:android:2a3a06420a53da8571f6ee",
+        "android_client_info": {
+          "package_name": "itislegend27.repl.co.food_truck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760797851051-s1frep6eujda24sprumvetl00q6gviol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4DbFlv-EYrzVpg4nJgDk9952OITDx9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760797851051-s1frep6eujda24sprumvetl00q6gviol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760797851051-i535h69uperne5v56djfok7jqchubfdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itislegend27.repl.co.foodTruck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

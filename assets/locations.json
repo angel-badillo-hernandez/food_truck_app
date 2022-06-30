@@ -1,0 +1,17 @@
+{"trucks": [
+    {
+        "image": "https://images.unsplash.com/photo-1505826759037-406b40feb4cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+        "city": "Wichita Falls",
+        "email": "bobsburgers@email.com",
+        "type": "American",
+        "id": 0,
+        "lat": 33.90976,
+        "lng": -98.500854,
+        "name": "Bob's Burgers",
+        "phone": "000-000-0000",
+        "state": "TX",
+        "url": "https://bobs-burgers.com",
+        "description": "It is a food truck."
+    }
+  ]
+}
