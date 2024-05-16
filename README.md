@@ -25,4 +25,4 @@ A good portion of the app contains code from Dr. Yu's
 project on Github.
 The sound effects are from [https://mixkit.co/](https://mixkit.co/).
 The images [logo.png](images/logo.png) and [marker.png](images/marker.png) were created by me
-using [https://www.canva.com/](https://www.canva.com/).# food_truck
+using [https://www.canva.com/](https://www.canva.com/).
